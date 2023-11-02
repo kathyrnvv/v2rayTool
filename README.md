@@ -1,2 +1,3 @@
 # v2rayTool
-Many proxies work togher with v2rayN for windows.
+与V2RayN 4.23搭配使用，进行有效节点的检查，再同时启动多个代理端口，满足对多个代理地址的需求。
+机场地址越多，能同时提供的代理端口越多。
